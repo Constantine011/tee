@@ -138,7 +138,7 @@ Você não será capaz de usar o app.</string>
     <string name="crash_report_send">Enviar relatório</string>
     <string name="email_client">Escolha o cliente do Email</string>
     <!-- Please don't modify this -->
-    <string name="about_dashboard">Wallpaper Board</string>
+    <string name="about_dashboard">Board</string>
     <string name="about_dashboard_dev"></string>
     <string name="about_dashboard_contributors">Colaboradores do Wallpaper Board</string>
     <string name="about_dashboard_translator">Tradutor do Wallpaper Board</string>
